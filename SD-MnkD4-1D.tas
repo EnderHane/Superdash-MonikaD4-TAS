@@ -1,5 +1,5 @@
 console load nameguysdsidespack/0/1-City
-ChapterTime: 0:58.650(3450)
+ChapterTime: 0:58.276(3428)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -33,19 +33,26 @@ Set,SuperDashing,true
    3,U
    1
    1,R
-   1,J,G
+   1,R,J,G
+   1,K,G
+   1,R
+   1,L
+   6,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
-   2,R
-   1,L,D
-  13,D
-   2,R,J
   15,R
-   5,R,D
-   1,J
+   4,R,D
+   1,R,J
    5,R,U,Z
   14,U
-   2,L,U
-   1
+   3,L,U
    1,R,U
   40
 
@@ -135,18 +142,27 @@ Set,SuperDashing,true
  
 #lvl_a-04
   11,R
-   4,R,D,X
+   4,Z
    1,R,J
-  15,R,D,G
-  24,R,U,G
-   3,J,G
-   1,L,J
-   1,R,K
-  10,R,J,G
+   5,R
+  15,R,U,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   6,R
+   2,R,D
+  10,R,J
+   1,K,G
+   3,R,K
+   3,R
+   1,L
   11,U,X
    1,J
    1,K
-   8,R,G
+   7,R
+   1,G
    1
    5,J
    8,R,U,G
@@ -158,24 +174,27 @@ Set,SuperDashing,true
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   8,R
-  17,R,D
+  20,R
+   5,R,D
    2,R
    1,R,D
    6,R
-   7,L,K
-   8,R,J
-   7,L,K
+   1,J
+   6,L,J
+   1,K
+   6,R,K
    2,J
+   3,L,J
+   3,J
+   5,K
+   1,J
+   1,K
+   8,L,K
    2,K
-   2,J
-  11,K
    1
    1,R,J
    1,R
-   6,R,J
-   1,R,J
-   1,R,J
+   8,R,J
    1,R
    5,L,D,X
    3,L,D
@@ -301,10 +320,11 @@ Set,SuperDashing,true
    5,R
    5,R,J
   13,R
-  17,R,J
-   1,R,K,G
+  10,J
+   3,R,J
+   3,R,K
    7,R
-   5,L,D,X
+   4,Z
    3,R,J
   40
 
@@ -563,75 +583,40 @@ Set,SuperDashing,true
    1,R,D
    2
   12,R,D
-  17,D
-   7,L
+  15,D
+   1,J
    7
-   5,L,Z
-   4,L
-   2
+   1,J
+   6
+  10,L,Z
    1,L,D
    1,R,J
-   4,R
-   1,R,K
-   5,R,D,X
-   3,R,U
+   3,R
    1
+   1,R,J
+   5,R,D,X
+   1,R,U
+   2
+   1,R,D
   40
 
 #lvl_b-06
-   3,R,D
-   4,R
    1,R,D
-   7,R
-   9,R
-#24f get to coin block
+   1
+   1,R,J,G
+  17,R
    5,R,U,Z
-   3,R,U
    1
-   5,R,U
-#14f dash
-   6,J,G
+   7,U
+   1,R
    1
-   1,L
-   4,L,K
+   2,L,J
    7,L
-#19f to land: approx +10f
    2,L,J
    5,U,X
-   1,L,U
-   1,R,U
-   3
-
-#orig b-06
-#was uhop on block->gultracb
-#(cb late? no boost in b06)
-#but was too lazy to sync
-#lose time(?) in b-05
-#but save 7f in b-06
-#   1,R,D
-#   1
-#  40
-#   1,R,U
-#   1,R,U
-#   1,R,J,G
-#  20
-#23f left side coinblock (-1f)
-#   5,R,Z
-#   3,R,U
-#   1
-#   1,R,U
-#   8,R,U
-#18f dash to wall (+4f)
-#   1,J
-#   1,L
-#   6,L,J
-#   1,L
-#9f land (-10f)
-#   2,L,J
-#   5,U,X
-#   2,L,U
-#   1
-#   2,R,U
+   2,L,U
+   1
+   2,R,U
   40
 
 #lvl_c-01
@@ -655,7 +640,6 @@ Set,SuperDashing,true
   23,R,D
    5,R,D,X
   10,R,U,X
-   0,X
    1,R,D,X
    3,X
    1,K,G
@@ -696,8 +680,7 @@ Set,SuperDashing,true
    1,L,J
    1,R,J
    5,J
-  11
-   1
+  12
    8,R
    5,R,U,Z
   12,R,D
@@ -714,10 +697,8 @@ Set,SuperDashing,true
    5,R
   17
    5,L,U,X
-  12
-   3
-   9,L,D
-   6,L,D
+  15
+  15,L,D
    3
    5,L,D
    1
@@ -727,19 +708,3 @@ Set,SuperDashing,true
    2
    1,L,U
   87
-
-#tied
-#rcb off blue block
-#   1,L,J,G
-#   1,R,J
-#   6,R
-#   1,L,K
-#   1,L,J,G
-#   5,R,J
-#   8,R
-#   5,R,U,X
-#   6,U
-#   6
-#   2,R
-#   1,R,J,G
-#heart
