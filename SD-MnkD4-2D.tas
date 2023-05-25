@@ -1,5 +1,5 @@
 console load nameguysdsidespack/0/2-Oldsite
-ChapterTime: 0:59.619(3507)
+ChapterTime: 0:59.364(3492)
 Set,VariantMode,true
 Set,SuperDashing,true
    1
@@ -228,33 +228,28 @@ Set,SuperDashing,true
    4,R,J
    5,L,U,X
   28,L
-   4,L,J
-  27,R,Z
+   4,R,G
+  26,R,Z
    4,R,J
    2,R,K
    5,D,X
   24,D
-  18,L
-   1,L,J,G
-   2,R,J
-   1,L,K,G
-   3,L,J,G
-   5,L,Z
-   1,U
-  14
-   1,L,D
-   5
-   1,L,D
-  13,L
+   2,L
+   5,L,D,X
+  13,L,U
+   4
+   2,L,D
+  12,L
+  14,L,X
    4,R,G
    5,L,U,X
    9,U
    2,R,U
-  13
+  12
    5,U,Z
-   1,R
-   8,L,U
-   6,R,U
+   4
+   6,L,U
+   5,R,U
    1,R,J,G
    1,R,K,G
    1,R,J,G
